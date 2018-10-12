@@ -1,3 +1,6 @@
+# Status Badge
+[![Build Status](https://dev.azure.com/AdedolapoOkunsanmi/devtest/_apis/build/status/dollarpo7.compressor)](https://dev.azure.com/AdedolapoOkunsanmi/devtest/_build/latest?definitionId=3)
+
 # Compressor
 This project contains a cloud service solution consisting of 1 WebRole and 2 WorkerRoles, required to setup lab for [Cloud Service troubleshooting series](https://blogs.msdn.microsoft.com/pratyay/2018/07/30/cloud-service-troubleshooting-series/).
 
